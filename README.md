@@ -1,5 +1,8 @@
 <h1 align="center">Hey👋, I'm Mariam Mostafa</h1>
 <h3 align="center">Data Analyst | BI Developer</br>
+  <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Memomostafakamel&label=Profile%20views&color=0e75b6&style=flat" alt="Memomostafakamel" /> 
+</p>
 <hr/>
 
 ## 👩🏻‍💻 About Me:
@@ -8,9 +11,7 @@ Data Analyst skilled in Power BI, SQL, Excel, Python, and Tableau. Experienced i
 
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Memomostafakamel&label=Profile%20views&color=0e75b6&style=flat" alt="Memomostafakamel" /> 
-</p>
+
 
 <hr/>
 
