@@ -7,6 +7,7 @@ Data Analyst skilled in Power BI, SQL, Excel, Python, and Tableau. Experienced i
 </p>
 
 <hr/>
+
 ## 💻 Tech Stack:
 
 ### 🛠️ Tools:
@@ -20,10 +21,12 @@ Data Analyst skilled in Power BI, SQL, Excel, Python, and Tableau. Experienced i
   <img src="https://img.shields.io/badge/Data_Structures-008080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem_Solving-ff69b4?style=for-the-badge" />   <img src="https://img.shields.io/badge/Database-ff8c00?style=for-the-badge" />
 
+  <hr/>
   
  ## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariammostafa16?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:memomostafakamel2005@gmail.com) 
 
+<hr/>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Memomostafakamel&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
