@@ -2,7 +2,7 @@
 # Hey 👋,I'm Mariam Mostafa:
 Data Analyst skilled in Power BI, SQL, Excel, Python, and Tableau. Experienced in data cleaning, modeling, and building interactive dashboards to track KPIs and support data-driven decisions. Strong ability to translate complex data into clear, actionable insights.
 
-## 🌐 Reach to me:
+# 🌐 Reach to me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariammostafa16?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:memomostafakamel2005@gmail.com) 
 
 # 💻 Tools & skills:
