@@ -1,7 +1,6 @@
 
-# 💫 About Me:
-Data analyst with practical skills in analyzing data with Excel, Power Query, SQL, and<br>Python. Passionate about discovering the hidden value within complex data, finding trends, and<br>providing insights that promote informed decision-making. Currently building comprehensive<br>analytical skills, including gathering and preparing data for analysis, data visualization, and telling<br>the story behind the data, through internships, practical projects and self-study. Open for<br>collaboration and learning and interested in professional development within the data field
-
+# Hey 👋,I'm Mariam Mostafa:
+Data Analyst skilled in Power BI, SQL, Excel, Python, and Tableau. Experienced in data cleaning, modeling, and building interactive dashboards to track KPIs and support data-driven decisions. Strong ability to translate complex data into clear, actionable insights.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariammostafa16?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:memomostafakamel2005@gmail.com) 
