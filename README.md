@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Mariam Mostafa</h1>
-<h3 align="center">Data Analyst | BI Developer</br>
+<h1 align="center">Data Analyst | BI Developer</h1>
   <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Memomostafakamel&label=Profile%20views&color=0e75b6&style=flat" alt="Memomostafakamel" /> 
 </p>
