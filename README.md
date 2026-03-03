@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Mariam Mostafa</h1>
-<h3 align="center">Data Analyst | BI Developer</h2>
+<h3 align="center">Data Analyst | BI Developer</h1>
 <hr/>
 
 ## 👩🏻‍💻 About Me:
