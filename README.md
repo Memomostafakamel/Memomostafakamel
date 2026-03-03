@@ -1,8 +1,10 @@
+<h1 align="center">Hey 👋, I'm Mariam Mostafa</h1>
+<h3 align="center">Data Analyst | BI Developer</h3>
 
-# Hey👋,I'm Mariam Mostafa:
+## 👩🏻‍💻 About Me:
 Data Analyst skilled in Power BI, SQL, Excel, Python, and Tableau. Experienced in data cleaning, modeling, and building interactive dashboards to track KPIs and support data-driven decisions. Strong ability to translate complex data into clear, actionable insights.
 
-## Data Analyst | BI Developer
+
 
 
 <p align="left"> 
